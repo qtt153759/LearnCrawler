@@ -32,7 +32,7 @@ func main() {
 		colly.Async(true), 
 		
 	)
-	c.Limit(&colly.LimitRule{DomainGlob: "*", Parallelism: 2})
+	c.Limit(&colly.LimitRule{DomainGlob: "*", Parallelism: 5})
 
 	// Create another collector to scrape course details
 	detailCollector := c.Clone()
