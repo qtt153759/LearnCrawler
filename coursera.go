@@ -33,7 +33,6 @@ func main() {
 		
 	)
 	c.Limit(&colly.LimitRule{DomainGlob: "*", Parallelism: 5})
-
 	// Create another collector to scrape course details
 	detailCollector := c.Clone()
 

@@ -1,0 +1,364 @@
+{
+  "stars": {
+    "1": { "count": 10, "percent": 1 },
+    "2": { "count": 3, "percent": 1 },
+    "3": { "count": 11, "percent": 1 },
+    "4": { "count": 97, "percent": 9 },
+    "5": { "count": 924, "percent": 88 }
+  },
+  "rating_average": 4.8,
+  "reviews_count": 1045,
+  "review_photo": { "total": 166, "total_photo": 236 },
+  "data": [
+    {
+      "id": 10668088,
+      "title": "Bình thường",
+      "content": "Bình bị móp ở đáy, cái nắp không giữ nhiệt, mình đổ thử nước nóng vào thì phần nắp bị nóng ở ngoài. Nói chung ko được như mong đợi, để đựng nước bình thường thôi, giữ nhiệt thì ko được lâu. Bù lại thiết kế ổn, màu xinh.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.88888889,
+      "new_score": 0.12873171,
+      "customer_id": 7686672,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [
+        {
+          "id": 2189508,
+          "full_path": "https://salt.tikicdn.com/ts/review/17/ed/74/7f14f97bc14ff17a3a5ec86dbfede4bc.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2189509,
+          "full_path": "https://salt.tikicdn.com/ts/review/28/a1/3f/cb309e2dcbbf580d7889cb92d6ec3bbd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1624674573,
+      "created_by": {
+        "id": 7686672,
+        "name": "Hạnh Hồng",
+        "full_name": "Hạnh Hồng",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=927654303991449&height=200&width=200&ext=1537096416&hash=AeT6E_kOhswelWd8",
+        "created_time": "2018-08-31 14:09:51",
+        "purchased": true,
+        "purchased_at": 1624607148,
+        "contribute_info": {
+          "id": 7686672,
+          "name": "Hạnh Hồng",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=927654303991449&height=200&width=200&ext=1537096416&hash=AeT6E_kOhswelWd8",
+          "summary": { "joined_time": "Đã tham gia 4 năm", "total_review": 5, "total_thank": 0 }
+        }
+      },
+      "suggestions": [],
+      "attributes": ["Mua từ nhà bán Tiki Trading", "Màu Mint"],
+      "product_attributes": ["Màu: Mint"],
+      "spid": 99621374,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 99621372,
+      "timeline": {
+        "review_created_date": "2021-06-26 09:29:33",
+        "delivery_date": "2021-06-26 09:16:38",
+        "current_date": "2022-11-23 15:49:44",
+        "content": "Đã dùng 13 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 phút."
+      },
+      "comments": [],
+      "vote_attributes": { "agree": [], "disagree": [] }
+    },
+    {
+      "id": 16424489,
+      "title": "Không hài lòng",
+      "content": "Hàng nhái. Rõ ràng trên tiêu đề sp để là Lock&Lock nhưng khi giao hàng thì là LocknLock.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.33333333,
+      "new_score": 0.10924734,
+      "customer_id": 5625309,
+      "comment_count": 0,
+      "rating": 2,
+      "images": [
+        {
+          "id": 3503477,
+          "full_path": "https://salt.tikicdn.com/ts/review/36/96/11/7cac97cc9724c8a56bbd3c89b0abb919.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1653230879,
+      "created_by": {
+        "id": 5625309,
+        "name": "Võ Ngọc Tú",
+        "full_name": "Võ Ngọc Tú",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-08-23 17:08:47",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1652970796,
+        "contribute_info": {
+          "id": 5625309,
+          "name": "Võ Ngọc Tú",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/c9/45/4d/dc5a054b05065652aa934ee23c0a3e3c.png",
+          "summary": { "joined_time": "Đã tham gia 5 năm", "total_review": 8, "total_thank": 2 }
+        }
+      },
+      "suggestions": [],
+      "attributes": ["Mua từ nhà bán Tiki Trading", "Màu Mint"],
+      "product_attributes": ["Màu: Mint"],
+      "spid": 99621374,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 99621372,
+      "timeline": {
+        "review_created_date": "2022-05-22 21:47:59",
+        "delivery_date": "2022-05-20 09:30:10",
+        "current_date": "2022-11-23 15:49:44",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": { "agree": [], "disagree": [] }
+    },
+    {
+      "id": 14314489,
+      "title": "Bình thường",
+      "content": "Màu đẹp nhưng mỏng, phần nắp nhựa nên giữ nhiệt không tốt, qua đêm không còn nóng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.33333333,
+      "new_score": 0.10821546,
+      "customer_id": 10798689,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [
+        {
+          "id": 2996763,
+          "full_path": "https://salt.tikicdn.com/ts/review/51/5b/df/cf5e0f6b1e61c27f978a5d91377e185b.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1641565705,
+      "created_by": {
+        "id": 10798689,
+        "name": "vo cong minh",
+        "full_name": "vo cong minh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-02-12 09:44:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1636626847,
+        "contribute_info": {
+          "id": 10798689,
+          "name": "vo cong minh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": { "joined_time": "Đã tham gia 4 năm", "total_review": 67, "total_thank": 9 }
+        }
+      },
+      "suggestions": [],
+      "attributes": ["Mua từ nhà bán Tiki Trading", "Màu Hồng"],
+      "product_attributes": ["Màu: Hồng"],
+      "spid": 99621376,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 99621372,
+      "timeline": {
+        "review_created_date": "2022-01-07 21:28:25",
+        "delivery_date": "2021-11-11 19:27:08",
+        "current_date": "2022-11-23 15:49:44",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": { "agree": [], "disagree": [] }
+    },
+    {
+      "id": 18079956,
+      "title": "Bình thường",
+      "content": "Bình màu sắc xinh, nhưng dễ trầy và bám dơ. Hay “đổ mồ hôi” xung quanh bình. Không giữ nhiệt tốt.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.10990636,
+      "customer_id": 6011911,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1667047002,
+      "created_by": {
+        "id": 6011911,
+        "name": "Diệu Thuỳ",
+        "full_name": "Diệu Thuỳ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-11-05 10:10:56",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1664937941,
+        "contribute_info": {
+          "id": 6011911,
+          "name": "Diệu Thuỳ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": { "joined_time": "Đã tham gia 5 năm", "total_review": 20, "total_thank": 15 }
+        }
+      },
+      "suggestions": [],
+      "attributes": ["Mua từ nhà bán Tiki Trading", "Màu Mint"],
+      "product_attributes": ["Màu: Mint"],
+      "spid": 99621374,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 99621372,
+      "timeline": {
+        "review_created_date": "2022-10-29 19:36:42",
+        "delivery_date": "2022-10-06 12:21:47",
+        "current_date": "2022-11-23 15:49:44",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": ["chất liệu an toàn cho sức khỏe", "Kiểu dáng đẹp", "Màu sắc đa dạng"],
+        "disagree": ["thời gian giữ nhiệt lâu"]
+      }
+    },
+    {
+      "id": 17706775,
+      "title": "Bình thường",
+      "content": "Kiểu dáng đẹp nhưng giữ nhiệt không tốt lắm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.1027096,
+      "customer_id": 1755750,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663289880,
+      "created_by": {
+        "id": 1755750,
+        "name": "Ngọc Hương Trương",
+        "full_name": "Ngọc Hương Trương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-10-06 10:48:08",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1660357694,
+        "contribute_info": {
+          "id": 1755750,
+          "name": "Ngọc Hương Trương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": { "joined_time": "Đã tham gia 6 năm", "total_review": 55, "total_thank": 76 }
+        }
+      },
+      "suggestions": [],
+      "attributes": ["Mua từ nhà bán Tiki Trading", "Màu Mint"],
+      "product_attributes": ["Màu: Mint"],
+      "spid": 99621374,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 99621372,
+      "timeline": {
+        "review_created_date": "2022-09-16 07:58:00",
+        "delivery_date": "2022-08-14 11:32:20",
+        "current_date": "2022-11-23 15:49:44",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": ["Kiểu dáng đẹp", "Màu sắc đa dạng"],
+        "disagree": ["thời gian giữ nhiệt lâu"]
+      }
+    }
+  ],
+  "paging": { "total": 15, "per_page": 5, "current_page": 1, "last_page": 3, "from": 1, "to": 5 },
+  "sort_options": [
+    [
+      { "label": "Hữu ích", "value": "score|desc" },
+      { "label": "Mới nhất", "value": "id|desc" },
+      { "label": "Có hình ảnh", "value": "has_image" }
+    ],
+    [
+      { "label": "Tất cả khách hàng", "value": "customer|all" },
+      { "label": "Khách đã mua hàng", "value": "bought" }
+    ],
+    [
+      { "label": "Tất cả sao", "value": "stars|all" },
+      { "label": "5 sao", "value": "stars|5" },
+      { "label": "4 sao", "value": "stars|4" },
+      { "label": "3 sao", "value": "stars|3" },
+      { "label": "2 sao", "value": "stars|2" },
+      { "label": "1 sao", "value": "stars|1" },
+      { "label": "Hài lòng", "value": "stars|4|5" },
+      { "label": "Chưa hài lòng", "value": "stars|1|2|3" }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": {
+    "product_id": 99621372,
+    "seller_id": 1,
+    "number_of_vote_to_show": 20,
+    "votes": [
+      {
+        "attribute_id": "do_ben_cao",
+        "attribute_name": "Độ bền cao",
+        "total_vote": 14,
+        "agree": 12,
+        "disagree": 0,
+        "no_idea": 2
+      },
+      {
+        "attribute_id": "chat_lieu_an_toan_cho_suc_khoe",
+        "attribute_name": "chất liệu an toàn cho sức khỏe",
+        "total_vote": 74,
+        "agree": 67,
+        "disagree": 0,
+        "no_idea": 7
+      },
+      {
+        "attribute_id": "kieu_dang_dep",
+        "attribute_name": "Kiểu dáng đẹp",
+        "total_vote": 79,
+        "agree": 77,
+        "disagree": 0,
+        "no_idea": 2
+      },
+      {
+        "attribute_id": "mau_sac_da_dang",
+        "attribute_name": "Màu sắc đa dạng",
+        "total_vote": 76,
+        "agree": 73,
+        "disagree": 1,
+        "no_idea": 2
+      }
+    ]
+  }
+}
